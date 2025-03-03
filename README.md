@@ -1,4 +1,4 @@
-# Running Tests in Parallel
+# Running a Cucumber Feature file  in Parallel across  different browsers using Junit5
 
 This guide provides step-by-step instructions on how to execute tests in parallel using Maven and a shell script.
 
